@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2? family= Akshar:wght@300 & family= BIZ+UDPGothic:wght@700 & family= Koulen & family= Macondo & family= Open+ Sans & famille= Roboto+Flex:opsz,wght@8..144,200 & famille= Roboto+Mono:wght@500 & famille= Roboto:ital,wght@0,400;1,100 & famille= Source+Sans+Pro:wght@300 & display=swap');
+
+main{
+    background: #273978;
+    width: 50%;
+    margin: 2vh auto;
+    font-family: 'Odibee Sans', cursive;
+    color: white;
+    padding: 1% 0;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+    margin: 0 auto 1vh;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+figure{
+    width: 25%;
+    margin: 1vh 2vw;
+}
+figcaption{
+    font-size: 1.5em;
+}
+img{
+    width: 200px;
+}
